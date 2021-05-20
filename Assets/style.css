@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(49, 49, 49);
+}
+.team-heading {
+    background-color: rgb(182, 12, 35);
+    color: cornsilk;
+    border-bottom-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+}
+.employee-card{
+    margin: 1rem;
+}
+.card-header {
+    background-color: rgb(218, 139, 49);
+    color: cornsilk;
+}
+.card-body{
+    background-color: rgb(247, 151, 43);
+    color: rgb(49, 49, 49);
+    opacity: 60%;
+}
